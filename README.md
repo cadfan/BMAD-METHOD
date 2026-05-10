@@ -11,7 +11,7 @@
 
 **100% free and open source.** No paywalls. No gated content. No gated Discord. We believe in empowering everyone, not just those who can pay for a gated community or courses.
 
-## Why the BMad Method?
+## Why the BMad Method? Y NOT
 
 Traditional AI tools do the thinking for you, producing average results. BMad agents and facilitated workflows act as expert collaborators who guide you through a structured process to bring out your best thinking in partnership with the AI.
 
